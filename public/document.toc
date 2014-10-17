@@ -1,0 +1,68 @@
+\contentsline {chapter}{Abstract}{ix}{section*.1}
+\contentsline {chapter}{Contents}{xi}{section*.1}
+\contentsline {chapter}{List of Figures}{xiii}{chapter*.2}
+\contentsline {chapter}{List of Tables}{xv}{chapter*.3}
+\contentsline {chapter}{Notation and Symbols}{xvi}{chapter*.4}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Output Tracking of Nonlinear System}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Single-Input Single-Output Case (SISO)}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Input-Output Feedback Linearization}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Output Tracking}{7}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Multi-Input Multi-Output Case (MIMO)}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Input-Output Feedback Linearization}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Output Tracking}{11}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}Output Tracking of Multiple Homogeneous Agents}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Output Tracking by Absolute References}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Output Tracking by Relative References}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}Kronecker Product}{17}{section.3.3}
+\contentsline {section}{\numberline {3.4}Graph Theory}{18}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Definitions}{19}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Path}{19}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Connectivity}{20}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Component}{21}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Graph Representation}{21}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Irreducible}{22}{subsection.3.4.6}
+\contentsline {section}{\numberline {3.5}Nonnegative Matrix}{23}{section.3.5}
+\contentsline {section}{\numberline {3.6}Control Analysis and Design}{27}{section.3.6}
+\contentsline {chapter}{\numberline {4}Formation Tracking Control}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}Formation}{40}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Formation Matrix}{41}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Formation of Agents}{42}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Formation Vector}{43}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Formation Tracking}{44}{section.4.2}
+\contentsline {section}{\numberline {4.3}Permutation of Agents}{46}{section.4.3}
+\contentsline {section}{\numberline {4.4}Permutation Invariant Formation Tracking}{48}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Weighted Graph Matching Problem}{48}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Dynamical Approach to Formation Assignment}{49}{subsection.4.4.2}
+\contentsline {subsubsection}{Dynamical Formation Assignment}{49}{section*.5}
+\contentsline {subsubsection}{How to configure the graph $ \mathcal {G}_1 $ and $ \mathcal {G}_2 $}{51}{section*.6}
+\contentsline {subsubsection}{Formation Vector for Actual Agents}{53}{section*.7}
+\contentsline {subsection}{\numberline {4.4.3}Integrated Tracking Control}{55}{subsection.4.4.3}
+\contentsline {chapter}{\numberline {5}Example}{57}{chapter.5}
+\contentsline {section}{\numberline {5.1}Multiple Homogeneous Nonholonomic Mobile Robots}{57}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Modeling a Mobile Robot}{57}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Input-output feedback linearization}{59}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Multiple Homogeneous Mobile Robots}{60}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Formation Configuration}{60}{subsection.5.1.4}
+\contentsline {subsubsection}{Formation Matrix and Vector}{61}{section*.8}
+\contentsline {subsection}{\numberline {5.1.5}Connectivity of Agents}{61}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Decentralized Formation Controller}{62}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}Permutation Invariant Formation}{63}{subsection.5.1.7}
+\contentsline {subsection}{\numberline {5.1.8}Simulation Results}{64}{subsection.5.1.8}
+\contentsline {subsubsection}{Decentralized Formation Tracking Control}{64}{section*.9}
+\contentsline {subsubsection}{Permutation Invariant Formation Tracking Control}{66}{section*.10}
+\contentsline {chapter}{\numberline {6}Conclusion}{68}{chapter.6}
+\contentsline {chapter}{\numberline {A}Matlab Code}{70}{appendix.A}
+\contentsline {section}{\numberline {A.1}Example in Chapter 5}{70}{section.A.1}
+\contentsline {subsubsection}{linearization.m}{70}{section*.11}
+\contentsline {subsubsection}{feedbackLinearizer.m}{70}{section*.12}
+\contentsline {subsubsection}{mobileRobot.m}{71}{section*.13}
+\contentsline {subsubsection}{makeIncludedAngleMatrix.m}{74}{section*.14}
+\contentsline {subsubsection}{toMatrix.m}{74}{section*.15}
+\contentsline {subsubsection}{toVector.m}{74}{section*.16}
+\contentsline {subsubsection}{initMultiAgents.m}{74}{section*.17}
+\contentsline {subsubsection}{assignmentDynamics.m}{75}{section*.18}
+\contentsline {subsubsection}{Block: Time Varying Formation Vector}{75}{section*.19}
+\contentsline {chapter}{Bibliography}{75}{section*.19}
+\contentsline {chapter}{Abstract in Korean}{81}{section*.21}
+\contentsline {chapter}{Acknowledgement}{83}{section*.22}

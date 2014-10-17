@@ -1,0 +1,7 @@
+graph untitled {
+        node [fontname="Bitstream Vera Sans", fontsize="22.00", shape=circle, style="bold,filled" fillcolor=white];
+        edge [style=bold];
+        	3--4 [ label = "100" ] ;
+	1--4 [ label = "20" ] ; 
+	2--4 [ label = "3" ] 
+}

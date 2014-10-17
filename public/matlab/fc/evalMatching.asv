@@ -1,0 +1,14 @@
+function [t_ p_]=evalMatching(p0, A1 ,A2, k, stopTime)
+tspan=[0 stopTime];
+% k=1;
+
+% matr
+odefuncM = @(t,P) (P*(P'*A2*P*A1 -A1*P'*A2*P) -k*P*((P.*P)'*P -P'*(P.*P)));
+odefuncV = @(t,p) toVector(odefuncM(t,toMatrix(p)));
+
+[t_ p_]=ode45(odefuncV,tspan,toVector(p0));
+
+
+
+
+

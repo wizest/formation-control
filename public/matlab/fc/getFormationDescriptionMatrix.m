@@ -1,0 +1,34 @@
+function F = getFormationDescriptionMatrix(xy)
+% 1. euclidean distance method
+%     n=length(xy);
+%     F=zeros(n);
+%     for i=1:n
+%         for j=1:n
+%             F(i,j)=norm(xy(:,i)-xy(:,j));        
+%         end
+%     end
+%     % F=normalize(F);
+
+% 2. inter-angle between two formation vector method
+    c=mean(xy')'; % center of formation;
+    n=length(xy);
+    F=zeros(n);
+    for i=1:n
+        for j=1:n
+            a=xy(:,i)-c;
+            b=xy(:,j)-c;        
+    %         F(i,j)=(a'*b)/(norm(a)*norm(b));
+            F(i,j)=180/pi*real(acos((a'*b)/(norm(a)*norm(b))));
+
+        end
+    end
+
+
+
+function F=normalize(F)
+% nomalize formation description matrix by norm of F 
+% (NORM(F) is the largest singular value of F)
+F=F./norm(F);
+% F=F./mean(mean(F));
+% F=F;
+

@@ -1,0 +1,161 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{path}
+\emph{California partners for advenced transit and highways},
+  \url{http://www.path.berkeley.edu}, accessed on Feb 2008.
+
+\bibitem{wikigraph}
+\emph{Graph theory}, wikipedia.org
+  \url{http://en.wikipedia.org/wiki/Graph_theory}, accessed on Feb 2008.
+
+\bibitem{amano}
+M.~Amano, Z.~W. Luo, and S.~Hosoe, \emph{Graph dependent sufficient conditions
+  for synchronization of dynamic network system with time-delay}, Proc. IFAC
+  Workshop on Time Delay Systems (2003).
+
+\bibitem{arkin}
+Tucker Balch and Ronald~C. Arkin, \emph{Behavior-based formation control for
+  multi-robot teams}, IEEE Trans. on Robotics and Automation (1998).
+
+\bibitem{broc}
+R.~W. Brockett, \emph{Dynamical systems that sort lists, diagonalize matrices,
+  and solve linear programming problems}, Linear Algebra and Its Applications
+  (1991).
+
+\bibitem{diestel}
+Diestel and Reinhard, \emph{Graph theory 2nd edition}, Springer, 2000.
+
+\bibitem{faxthesis}
+J.~Alexander Fax, \emph{Optimal and cooperative control of vehicle formations},
+  Ph.D. thesis, California Institute of Technology, 2002.
+
+\bibitem{fax}
+J.~Alexander Fax and Richard~M. Murray, \emph{Information flow and cooperative
+  control of vehicle formations}, IEEE Trans. on Automatic Control (2004).
+
+\bibitem{npc2}
+M.~R. Garey and D.~S. Johnson, \emph{Computers and intractability: A guide to
+  the theory of np-completeness},  (1979).
+
+\bibitem{npc1}
+Steven Gold and Anand Rangarajan, \emph{A graduated assignment algorithm for
+  graph matching}, IEEE Trans. on Pattern Analysis and Machine Intelligence
+  (1996).
+
+\bibitem{horn}
+Roger~A. Horn and Charles~R. Johnson, \emph{Matrix analysis}, Cambridge, 1985.
+
+\bibitem{isidori}
+Albert Isidori, \emph{Nonlinear control systems 3rd ed.}, Springer, 1995.
+
+\bibitem{ali}
+Ali Jadbabaie, Jie Lin, and A.~Stephen Morse, \emph{Coordination of groups of
+  mobile autonomous agents using nearest neighbor rules}, IEEE Trans. on
+  Automatic Control (2003).
+
+\bibitem{khalil}
+Hassan~K. Khalil, \emph{Nonlinear systems 3rd ed.}, Prentice Hall, 2002.
+
+\bibitem{glaff}
+G.~Lafferriere, A.~Williams, J.~Caughman, and J.J.P Veerman,
+  \emph{Decentralized control of vehicle formations}, System and Control
+  Letters (2005).
+
+\bibitem{marino}
+Riccardo Marino and Patrizio Tomei, \emph{Nonlinear control design}, Prentice
+  Hall, 1995.
+
+\bibitem{russell}
+Russell Merris, \emph{Laplacian matrices of graphs: A survey}, Linear Algebra
+  and Its Applications (1994).
+
+\bibitem{mesbahi}
+M.~Mesbahi and F.~Y. Hadaegh, \emph{Formation flying control of multiple
+  spacecraft via graphs, matrix inequalities, and switching}, IEEE Conf. on
+  Control Applications (1999).
+
+\bibitem{lucmoreau}
+Luc Moreau, \emph{Stability of multiagent systems with time-dependent
+  communication links}, IEEE Trans. on Automatic Control (2005).
+
+\bibitem{surveycooperativecontrol}
+Richard~M. Murray, \emph{Recent research in cooperative control of
+  multi-vehicle systems}, ASME Journal of Dynamic Systems, Measurement, and
+  Control (2006).
+
+\bibitem{bi:murray}
+Richard~M. Murray, Z.~Li, and Shanker Sastry, \emph{A mathematical introduction
+  to robotic manipulation}, CRC Press, 1993.
+
+\bibitem{reza}
+Reza Olfati-Saber and Richard~M. Murray, \emph{Consensus problems in networks
+  of agents with switching topology and time-delays}, IEEE Trans. on Automatic
+  Control (2005).
+
+\bibitem{weiren2}
+Wei Ren, \emph{Consensus strategies for cooperative control of vehicle
+  formations}, IET Control Theory Appl. (2007).
+
+\bibitem{weiren}
+Wei Ren and Randal~W. Beard, \emph{Consensus seeking in multiagent systems
+  under dynamically changing interaction topologies}, IEEE Trans. on Automatic
+  Control (2005).
+
+\bibitem{roth}
+U.~G. Rothblum, \emph{Algebraic eigenspaces of nonnegative matrices}, Linear
+  Algebra and Its Applications (1975).
+
+\bibitem{kloder}
+Kloder S. and Hutchinson S., \emph{Path planning for permutation-invariant
+  multi-robot formations}, IEEE Conf. on Robotics and Automation (2005).
+
+\bibitem{sastry}
+Shanker Sastry, \emph{Nonlinear systems analysis, stability, and control},
+  Springer, 1999.
+
+\bibitem{SPL06}
+Sepulchre, Rodolphe, Paley, Derek, Leonard, and Naomi Ehrich, \emph{Group
+  coordination and cooperative control of steered particles in the plane},
+  Group Coordination and Cooperative control (K.~Y. Pettersen, J.~T. Gravdahl,
+  and H.~Nijmeijer, eds.), Lecture Notes in Control and Information Sciences,
+  Spinger-Verlag, London, 2006, pp.~217--232.
+
+\bibitem{overlapping}
+Dusan~M. Stipanovic, Gokhan Inalhan, Rodney Teo, and Claire~J. Tomlin,
+  \emph{Decentralized overlapping control of a formation of unmanned aerial
+  vehicles}, Automatica (2004).
+
+\bibitem{feasible}
+Paulo Tabuada, George~J. Pappas, and Pedro Linda, \emph{Feasible formations of
+  multi-agent systems}, Proceedings of the American Control Conference (2001).
+
+\bibitem{cww2}
+Chai~Wah Wu, \emph{Synchronization in arrays of coupled nonlinear systems with
+  delay and nonreciprocal time-varying coupling}, IEEE Trans. on Circuit and
+  Systems (2005).
+
+\bibitem{cww}
+Chai~Wah Wu and Leon~O. Chua, \emph{Synchronization in an array of linearly
+  coupled dynamical systems}, IEEE Trans. on Circuit and Systems (1995).
+
+\bibitem{hiroaki}
+Hiroaki Yamaguchi, Tomio Arai, and Gerardo Beni, \emph{A distributed control
+  scheme for multiple robotic vehicles to make group formations}, Robotics and
+  Autonomous Systems (2001).
+
+\bibitem{hsihan}
+Hsi-Han Yeh, Eric Nelson, and Andrew Sparks, \emph{Nonlinear tracking control
+  for satellite formations}, IEEE Conf. on Decision and Control (2000).
+
+\bibitem{graphmatch}
+Michael~M. Zavlanos and George~J. Pappas, \emph{A dynamical systems approach to
+  weighted graph matching}, IEEE Conf. on Decision and Control (2006).
+
+\end{thebibliography}

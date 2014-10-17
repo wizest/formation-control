@@ -1,0 +1,6 @@
+% ex) v=[0 0 -100 -200 100 -200 -200 -400 0 -400 200 -400].';
+function A = makeIncludedAngleMatrix(v)
+v = reshape(v,2,6);
+c = mean(v.').';    % center
+
+

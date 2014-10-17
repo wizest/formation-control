@@ -1,0 +1,8 @@
+graph untitled {
+        node [fontname="Bitstream Vera Sans", fontsize="22.00", shape=circle, style="bold,filled" fillcolor=white];
+        edge [style=bold];
+	4 -- 1[ label = "10",len="1" ]
+	1 -- 2[ label = "10" ,len="1"]
+	2 -- 3[ label = "10",len="1" ]
+	3 -- 4[ label = "10",len="1" ]
+}

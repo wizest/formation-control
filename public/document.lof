@@ -1,0 +1,40 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Directed graph}}{19}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Undirected graph}}{19}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Strongly connected graph (Irreducible)}}{20}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Reducible graph (Disconnected)}}{23}{figure.3.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Patrolling flight of T-50, Republic of Korea Air Force.}}{39}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 4-4-2 Formation, sometimes called a flat-back 4. The midfielders are required to work hard to support both the defence and the attack. Courtesy of Eteamz.com}}{40}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The platoon control demonstration in San Diego by the National Automated Highway System Consortium. See \cite {path}.}}{41}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The three vehicles in the equilateral triangle formation with $ 2 $-dimensional relative outputs.}}{42}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces The graph $ \mathcal {G}_1 $ and $ \mathcal {G}_2 $ are isomorphic while sharing the same structure. By the permutation of the vertices, two graphs come to be identical.}}{49}{figure.4.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Graph $ \mathcal {G}_1 $}}}{49}{figure.4.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Graph $ \mathcal {G}_2 $}}}{49}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Assignments of aircrafts on the rectangular formation.}}{51}{figure.4.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Bad}}}{51}{figure.4.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Good}}}{51}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Identical graphs for a weighted graph matching problem.}}{54}{figure.4.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Graph $ \mathcal {G}_1 $}}}{54}{figure.4.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Graph $ \mathcal {G}_2 $}}}{54}{figure.4.7}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Graph $ \mathcal {G}_3 $}}}{54}{figure.4.7}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Graph $ \mathcal {G}_4 $}}}{54}{figure.4.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Kinematic model of a mobile robot.}}{57}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Triangular formation of $ 6 $ multiple homogeneous agents. The number on body is the index of the agent.}}{60}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Output sensing graph of the agents for Laplacian matrix \textup {\hbox {\mathsurround \z@ \normalfont (\ignorespaces \ref {exlaplacian}\unskip \@@italiccorr )}}. This graph represents that the agent $ i $ can sense the outputs of its neighbors $ \mathcal {N}_i $. The agent $ 1 $ is the single leader of the group by the connectivity of the graph.}}{61}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces $ x $, $ y $ trajectories of the agents. `o' indicates the initial positions of the agents and `x' does the final positions. The number of each line is the index of the agent.}}{64}{figure.5.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$ x $ trajectories }}}{64}{figure.5.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$ y $ trajectories }}}{64}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Decentralized formation tracking control for \textup {\hbox {\mathsurround \z@ \normalfont (\ignorespaces \ref {excontroller}\unskip \@@italiccorr )}}. `o' indicates the initial positions of the agents and `x' does the final positions. The number of each line is the index of the agent.}}{65}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Evaluation of the elements of the output matrix $ P $ for the assignment dynamics \textup {\hbox {\mathsurround \z@ \normalfont (\ignorespaces \ref {exassignmentdynamics}\unskip \@@italiccorr )}} during $ 0.5 $ time.}}{66}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces $ x $, $ y $ trajectories of the agents. `o' indicates the initial positions of the agents and `x' does the final positions. The number of each line is the index of the agent.}}{67}{figure.5.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$ x $ trajectories}}}{67}{figure.5.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$ y $ trajectories}}}{67}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Permutation invariant formation tracking control. `o' indicates the initial positions of the agents and `x' does the final positions. The number of each line is the index of the agent.}}{67}{figure.5.8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces State Feedback Input-Output Linearized Mobile Robot.}}{72}{figure.A.1}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Matlab Implementation of Formation Tracking Control.}}{73}{figure.A.2}
